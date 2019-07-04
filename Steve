@@ -1,0 +1,5 @@
+git remote add origin https://github.com/OrangeVoidStudios/Murder.git
+git push -u origin master
+when start 
+set size to 100
+go to x:20 y:20
